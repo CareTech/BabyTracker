@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Hackathon</string>
+    <string name="action_settings">Settings</string>
+    <string name="new_baby_screen">New Baby</string>
+    
+      <string name="task_new_title">New Task</string>
+                <string name="task_title_hint">Task Name</string>
+                <string name="task_duedate">Due Date</string>
+                <string name="task_duedate_hint">Due Date</string>
+                <string name="task_duetime_hint">Time</string>
+                <string name="task_reminder_text">Reminder</string>
+                <string name="task_save_btn">Save</string>
+                <string name="task_cancel_btn">Cancel</string>
+                <string name="task_category_prompt">Category</string>
+                <string name="task_notes_hint">Notes</string>
+                <string-array name="task_category">
+                    <item>Doctor Visit</item>
+                    <item>Immunizations</item>
+                    <item>Emergencies</item>
+                    <item>Hospital Visit</item>
+                </string-array>
+    
+
+</resources>
